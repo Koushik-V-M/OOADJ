@@ -1,0 +1,16 @@
+a1\assignment1fx\frontend\AdminController.class
+a1\assignment1fx\frontend\AppController.class
+a1\assignment1fx\backend\Librarian.class
+a1\assignment1fx\backend\Item.class
+a1\assignment1fx\frontend\StudentController.class
+module-info.class
+a1\assignment1fx\frontend\RequestsController.class
+a1\assignment1fx\frontend\AddItemController.class
+a1\assignment1fx\frontend\LibrarianController.class
+a1\assignment1fx\frontend\AddLibrarianController.class
+a1\assignment1fx\backend\Admin.class
+a1\assignment1fx\Main.class
+a1\assignment1fx\App.class
+a1\assignment1fx\backend\Student.class
+a1\assignment1fx\frontend\StudentCheckedController.class
+a1\assignment1fx\backend\User.class
